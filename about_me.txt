@@ -1,2 +1,3 @@
 Hello, my name is Gagan Venkat
 In this internship im looking forward to learn about Git and GitHub
+Im also keen to know more about Python and SQL and apply it in real life.
