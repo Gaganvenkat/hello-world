@@ -1,3 +1,4 @@
 Hello, my name is Gagan Venkat.
 In this internship im looking forward to learn about Git and GitHub.
 Im also keen to know more about Python and SQL and apply it in real life.
+My goals in line with this internship is to gain industry-relevant skills through which i can achieve my dream package.
