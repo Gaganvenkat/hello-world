@@ -1,1 +1,2 @@
 Hello, my name is Gagan Venkat
+In this internship im looking forward to learn about Git and GitHub
